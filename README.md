@@ -49,11 +49,11 @@
 
 ### Online Compilers
 
-#### _Most preferred
+#### _Most preferred_
 
   [Replit](https://replit.com/)
 
-#### _Other options
+#### _Other options_
 
   [Online GDB](https://www.onlinegdb.com/)
 
