@@ -47,17 +47,20 @@
 
 ## Resources
 
+### Setting up dual boot
+  [Ubuntu Dual Boot](https://youtu.be/aKKdiqVHNqw)
+  
 ### Online Compilers
 
-#### _Most preferred_
+#### _Best one_
 
-  [Replit](https://replit.com/)
+- [Replit](https://replit.com/)
 
 #### _Other options_
 
-  [Online GDB](https://www.onlinegdb.com/)
+- [Online GDB](https://www.onlinegdb.com/)
 
-  [Studytonight](https://www.studytonight.com/code/playground/)
+- [Studytonight](https://www.studytonight.com/code/playground/)
 
 ### Tutorials: Read and learn
 
@@ -92,7 +95,7 @@
 ## Competitve Programming and skill development
 
 
-## Sites to register for competitive programming
+### Sites to register for competitive programming
 
   [Codeforces](https://codeforces.com/)
 
@@ -125,4 +128,4 @@
 
 ----
 
-## _For local hackathons stick with us, we gotchu covered
+## _For local hackathons stick with us, we gotchu covered_
