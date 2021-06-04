@@ -1,6 +1,7 @@
 # Resources
 
 ### [Our Youtube](https://www.youtube.com/channel/UCVDR0bQ5ixr7iohLq2TSIYw)
+### [Literally All Programming Websites](https://cutt.ly/tncwZfd)
 
 ## Courses
 
@@ -92,24 +93,6 @@
 
   [Software](https://t.me/Softwares_programming)
 
-## Competitve Programming and skill development
-
-
-### Sites to register for competitive programming
-
-  [Codeforces](https://codeforces.com/)
-
-  [Hacker Rank](https://www.hackerrank.com/)
-
-  [AtCoder](https://atcoder.jp/)
-
-  [Codechef](https://codechef.com/)
-
-  [PrepBytes](https://mycode.prepbytes.com/)
-
-### Practice here too
-
-  [Practice PrepBytes](https://mycode.prepbytes.com/competitive-coding/practice)
 
 ## Hackathons
 
