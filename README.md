@@ -5,6 +5,8 @@
 
 ## Courses
 
+[Courses taught in government institutes](https://swayam.gov.in/explorer?category=Engineering_and_Technology)
+
 ### Introduction to Programming
 
   [CS50 Harvard Course - Get started](https://cs50.harvard.edu/college/2021/spring/)
