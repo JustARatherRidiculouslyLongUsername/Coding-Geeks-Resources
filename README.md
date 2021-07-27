@@ -13,7 +13,8 @@
 
   [Youtube playlist to develop interest in coding](https://youtube.com/playlist?list=PLJicmE8fK0EiFngx7wBddZDzxogj-shyW)
 
-
+### OS
+  [OS Systems](https://www.personal.kent.edu/~rmuhamma/OpSystems/os.html)
 ### C
 
   [IIT Kharagpur - Problem Solving through C](https://nptel.ac.in/courses/106/105/106105171/)
