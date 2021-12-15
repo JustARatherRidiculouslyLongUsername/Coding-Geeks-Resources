@@ -90,12 +90,6 @@
 
   [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
 
-### Books
-
-  [Drive Link](https://drive.google.com/drive/folders/1afiAUWuyaRLbNSQb72T5aJuX_0jJZnBD?usp=sharing)
-
-  [Software](https://t.me/Softwares_programming)
-
 
 ## Hackathons
 
